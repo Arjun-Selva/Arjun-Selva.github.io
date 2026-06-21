@@ -1,4 +1,4 @@
-# Projects
+# Projects and achievements
 
 
-![My Profile Picture](profile.png)
+!(profile.png)
