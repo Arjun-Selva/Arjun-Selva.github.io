@@ -1,1 +1,31 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <!-- This links to your custom stylesheet -->
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+
+    <header>
+        <h1>My Custom Built Website</h1>
+        <nav>
+            <a href="{{ '/' | relative_url }}">Home</a> | 
+            <a href="{{ '/project' | relative_url }}">Projects</a>
+        </nav>
+    </header>
+
+    <main>
+        <!-- This magic variable injects your Markdown text right here -->
+        {{ content }}
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Custom Theme Design</p>
+    </footer>
+
+</body>
+</html>
