@@ -1,4 +1,4 @@
 # Projects and achievements
 
 
-!(profile.png)
+![placeholder](profile.png)
