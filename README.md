@@ -12,6 +12,5 @@ Here is some information about my work.
 # Navigation
 * [View my Projects](project.md)
 ---
-layout: default
-title: Home Page
+
 ---
