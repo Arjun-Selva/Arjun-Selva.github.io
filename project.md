@@ -1,4 +1,4 @@
 # Projects
 
 
-![My Profile Picture](profile.png)
+![My Profile Picture](assets/profile.png)
