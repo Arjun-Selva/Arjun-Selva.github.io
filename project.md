@@ -1,9 +1,5 @@
 # Projects and achievements
 
-
-![placeholder](profile.png)
-
-
 <img src="cs50p.png"
      width="800" 
      height="auto" />
