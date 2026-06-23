@@ -15,4 +15,4 @@ INSERT DOFE CERTIFICATES:
      width="200" 
      height="auto"
      style="float: left;"/>
-I was also a member of PSC robotics and helped with assembling the frame and testing 
+ I was also a member of PSC robotics and helped with assembling the frame and testing 
