@@ -9,7 +9,5 @@ I chose to partake in cs50p in 2023 as a challenge and to further my knowledge o
 
 
 
-t1 {
-  font-size: 40px;
-}
+
 <t1>INSERT DOFE CERTIFICATES:<t1>
