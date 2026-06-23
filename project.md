@@ -12,6 +12,7 @@ I chose to partake in cs50p in 2023 as a challenge and to further my knowledge o
 
 
 I was also a member of PSC robotics and helped with assembling the frame and testing 
+
 <img src="robot.png"
      width="200" 
      height="auto" />
