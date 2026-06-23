@@ -15,4 +15,4 @@ I was also a member of PSC robotics and helped with assembling the frame and tes
 <img src="robot.png"
      width="200" 
      height="auto"
-     float:right/>
+     style="float: right;"/>
